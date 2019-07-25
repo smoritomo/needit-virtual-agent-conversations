@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category>Service Portal</category>
+        <format/>
+        <height/>
+        <image/>
+        <name>aaa.jpg</name>
+        <size_bytes/>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-20 09:45:37</sys_created_on>
+        <sys_id>76883f704f3633005306a88ca310c728</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>aaa.jpg</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_368657_needit_vi">ee61816c4ff233005306a88ca310c7bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">ee61816c4ff233005306a88ca310c7bf</sys_scope>
+        <sys_update_name>db_image_76883f704f3633005306a88ca310c728</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-20 09:45:37</sys_updated_on>
+        <thumbnail/>
+        <width/>
+    </db_image>
+</record_update>

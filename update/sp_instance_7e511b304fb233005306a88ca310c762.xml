@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6e515ffc4f7233005306a88ca310c772</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-20 06:50:06</sys_created_on>
+        <sys_id>7e511b304fb233005306a88ca310c762</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>We are happy to see you!!!!!</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_368657_needit_vi">ee61816c4ff233005306a88ca310c7bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">ee61816c4ff233005306a88ca310c7bf</sys_scope>
+        <sys_update_name>sp_instance_7e511b304fb233005306a88ca310c762</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-20 06:50:06</sys_updated_on>
+        <title>We are happy to see you!!!!!</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=7e511b304fb233005306a88ca310c762"/>
+</record_update>

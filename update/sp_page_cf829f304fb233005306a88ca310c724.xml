@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>sc</category>
+        <css/>
+        <draft>false</draft>
+        <dynamic_title_structure>Catalog - Browse</dynamic_title_structure>
+        <id>copy_of_sc_category_1</id>
+        <internal>false</internal>
+        <public>false</public>
+        <roles>snc_external,snc_internal</roles>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-07-20 06:55:18</sys_created_on>
+        <sys_id>cf829f304fb233005306a88ca310c724</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>copy_of_sc_category_1</sys_name>
+        <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_368657_needit_vi">ee61816c4ff233005306a88ca310c7bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Virtual Agent Conversations">ee61816c4ff233005306a88ca310c7bf</sys_scope>
+        <sys_update_name>sp_page_cf829f304fb233005306a88ca310c724</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-07-20 06:55:18</sys_updated_on>
+        <title>Copy of Service Catalog (1)</title>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=cf829f304fb233005306a88ca310c724"/>
+</record_update>
